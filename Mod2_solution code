@@ -19,11 +19,6 @@
       margin-top: 60px;
       background-color: gray;
     }
-    h2 {
-      margin-top: 50px;
-      font-size: 24px;
-      font-weight: bold;
-    }
     .box {
       width: 300px;
       height: 200px;
